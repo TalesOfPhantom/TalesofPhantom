@@ -1,4 +1,6 @@
-### Hi there 👋
+### Tales of Phantom official Repo
+
+## Contracts and other info will be posted here
 
 <!--
 **TalesOfPhantom/TalesofPhantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
